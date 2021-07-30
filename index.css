@@ -1,0 +1,28 @@
+.filter_container {
+  padding: 30px;
+}
+.creative_bar_container {
+  padding: 30px;
+}
+.creative_bar {
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.creative_bar_fill {
+  border-radius: 10px;
+  background: black;
+  padding: 8px;
+}
+.add_creative_button {
+  margin: 30px;
+}
+.add_creative_blur {
+  opacity: 0.5;
+}
+.creative_box {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
